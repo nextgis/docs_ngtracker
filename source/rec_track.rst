@@ -21,7 +21,7 @@ In the notification panel of the device you'll see a walking figure indicating t
 If you open the panel, you can stop the recording by pressing **Stop**.
 
 .. figure:: _static/track_rec_notification_en.png
-   :name: tracker_main_pic 
+   :name: track_rec_notification_pic 
    :align: center
    :width: 8cm
 
