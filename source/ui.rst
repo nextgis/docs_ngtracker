@@ -13,10 +13,10 @@ NextGIS Tracker app has two principal screens:
 Main screen
 -------------
 
-The main screen of the app is shown on :numref:`tracker_main_pic`. 
+The main screen of the app is shown on :numref:`ui_tracker_main_pic`. 
 
 .. figure:: _static/tracker_main_en.png
-   :name: tracker_main_pic 
+   :name: ui_tracker_main_pic 
    :align: center
    :width: 16cm
 
