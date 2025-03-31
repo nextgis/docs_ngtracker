@@ -86,7 +86,7 @@ In the context menu of a tracker you can set the time range to the last day of i
 
 
 .. figure:: _static/webmap_tracker_menu_en.png
-   :name: tracker_main_pic 
+   :name: wm_tracker_main_pic 
    :align: center
    :width: 20cm
 
