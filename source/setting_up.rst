@@ -8,7 +8,7 @@ After the app is installed to your device, you need to set it up to begin track 
 .. _ngtr_set_record:
 
 Track recording settings
------------------------
+-------------------------
 
 When you open the app for the first time, give the following permissions:
 
@@ -29,7 +29,7 @@ If you see the dialog shown on :numref:`ngtr_allow_location_pic`, select **Preci
 .. _ngtr_set_send:
 
 Setting up sending tracks to Web GIS
------------------------------------
+-------------------------------------
 
 To upload tracks to your Web GIS (cloud-based or on-premise), set up synchronization.
 
