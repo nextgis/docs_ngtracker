@@ -15,7 +15,7 @@ Main screen
 
 The main screen of the app is shown on :numref:`ui_tracker_main_pic`. 
 
-.. figure:: _static/tracker_main_en.png
+.. figure:: _static/tracker_main_en_2.png
    :name: ui_tracker_main_pic 
    :align: center
    :width: 16cm
@@ -44,6 +44,15 @@ In the **Tracks** section:
 
 Settings
 --------------
+
+Tap the menu button in the top right corner of the app screen, then select "Settings".
+
+.. todo:: _static/ngtr_settings_open_en_2.png
+   :name: tracker_main_pic 
+   :align: center
+   :width: 16cm
+
+   Opening Settings
 
 Settings screen is shown on :numref:`tr_settings_pic`. 
 

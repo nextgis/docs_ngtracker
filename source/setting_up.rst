@@ -33,18 +33,9 @@ Setting up sending tracks to Web GIS
 
 To upload tracks to your Web GIS (cloud-based or on-premise), set up synchronization.
 
-Tap the menu button in the top right corner of the app screen and go to "Settings".
+In the top bar turn on **Sync with the cloud** switch (see :numref:`sync_with_cloud_pic`), then enter your Web GIS credentials and save, as shown on :numref:`webgis_creds_pic`.
 
-.. figure:: _static/ngtr_settings_open_en.png
-   :name: tracker_main_pic 
-   :align: center
-   :width: 16cm
-
-   Opening Settings
-
-In the Settings turn on **Sync with the cloud** (see :numref:`sync_with_cloud_pic`), then enter your Web GIS credentials and save, as shown on :numref:`webgis_creds_pic`.
-
-.. figure:: _static/sync_with_cloud_en.png
+.. figure:: _static/sync_with_cloud_main_en.png
    :name: sync_with_cloud_pic
    :align: center
    :width: 8cm
