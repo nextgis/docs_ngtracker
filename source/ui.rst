@@ -13,7 +13,7 @@
 
 Главное окно приложения представлено на :numref:`tracker_main_pic`. 
 
-.. figure:: _static/tracker_main_ru.png
+.. figure:: _static/tracker_main_ru_2.png
    :name: tracker_main_pic
    :align: center
    :width: 16cm
@@ -42,6 +42,16 @@
 
 Окно настроек
 --------------
+
+Нажмите кнопку вызова меню в правой верхней части веб-интерфейса приложения, и перейдите в раздел «Настройки».
+
+.. figure:: _static/ngtr_settings_open_ru_2.png
+   :name: ngtr_settings_open_pic
+   :align: center
+   :width: 16cm
+
+   Вызов настроек
+
 
 Окно настроек приложения представлено на :numref:`tr_settings_pic`. 
 
