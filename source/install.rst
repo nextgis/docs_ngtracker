@@ -1,4 +1,3 @@
-.. sectionauthor:: Alexander Myrov <alexander.myrov@nextgis.com>, Yulia Grigorenko <yulia.grigorenko@nextgis.com>
 
 Installation
 =====================
